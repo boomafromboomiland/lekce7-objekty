@@ -40,7 +40,7 @@ h1 {
 	justify-content: center;
 }
 
-.zvire {
+.zviera {
 	position: relative;
 	flex: 0 0 150px;
 	margin: 0 20px;
@@ -54,7 +54,7 @@ h1 {
 	transition: none;
 }
 
-.jmeno {
+.meno {
 	display: flex;
 	align-items: center;
 	justify-content: center;
