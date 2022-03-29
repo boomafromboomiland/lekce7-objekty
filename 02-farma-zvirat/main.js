@@ -39,6 +39,7 @@ for (let i = 0; i < poleZvierata.length; i++) {
     let fotoZvierata = document.createElement('img');
     fotoZvierata.className = 'foto';
     fotoZvierata.src = poleZvierata[i].foto;
+    fotoZvierata.alt = poleZvierata[i].jmeno;
 
     let menoZvierata = document.createElement('span');
     menoZvierata.className = 'meno';
